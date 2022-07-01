@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Which currencies can I add, keep and receive in my account"]],"1":[[" ","Home"," ",">>"," ","SINGAPORE"," ",">>"," ","Holding money"," ",">>"," ","Holding money basics"," ",">>"," ","Which currencies can I add, keep and receive in my account"]],"2":[[" ","Which currencies can I add, keep and receive in my account"]],"id":"6"})

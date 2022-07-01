@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","I closed my account. How do I reopen it"]],"1":[[" ","Home"," ",">>"," ","SINGAPORE"," ",">>"," ","Managing your account"," ",">>"," ","Closing your account"," ",">>"," ","I closed my account. How do I reopen it"]],"2":[[" ","I closed my account. How do I reopen it"]],"id":"4"})

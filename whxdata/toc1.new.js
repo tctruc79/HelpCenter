@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Managing your account","type":"book","tilePath":"","key":"toc2"},{"name":"Holding money","type":"book","tilePath":"","key":"toc9"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

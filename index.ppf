@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="HELP CENTRE" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="SINGAPORE\Managing_your_account\Setting_up_and_managing_your_account\How_to_register_a_login_Profile.htm">
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Setting_up_and_managing_your_account\How_to_register_a_login_Profile.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Setting_up_and_managing_your_account\How_to_register_an_Individual_Account.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Setting_up_and_managing_your_account\How_to_register_a_Business_Account.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Logging_in\How_do_I_login_to_system.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Logging_in\Can_I_sign_up_with_my_Facebook_or_Google_account_or_Apple_ID.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Logging_in\I_have_forgotten_my_password.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Logging_in\I_could_not_receive_OTP_verification_code.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Logging_in\I_have_changed_my_phone_number_and_cannot_log_in.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Onboarding_your_account\How_to_onboard_an_Individual_Account.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Onboarding_your_account\How_to_onboard.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Account_and_settings\Account_settings.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Account_and_settings\How_do_I_set_up_2-factor-authentication_login.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Account_and_settings\I_need_to_change_my_password.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Account_and_settings\new_topic.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Account_and_settings\new_topic1.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Account_and_settings\How_do_I_manage_my_notifications.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Closing_your_account\How_do_I_close_my_Busines.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Closing_your_account\How_do_I_close_my_Individual_Account.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Closing_your_account\I_closed_my_account.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Closing_your_account\My_account_was_deactivated.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Managing_your_account\Contact_us\Contact_us.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Holding_money\Holding_money_basics\Which_currencies_can_I_add,_keep_and_receive_in_my_account.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Holding_money\Holding_money_basics\How_does_Transwap_hold_my_money.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Holding_money\Holding_money_basics\How_do_I_convert_mony.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Holding_money\Holding_money_basics\How_do_I_close_my_balances.htm
+    </topic>
+    
+    <topic>
+      SINGAPORE\Holding_money\Top-up_money_to_your_balances\How_do_I_top-up_money_to_balances.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.html
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Holding money basics","type":"book","tilePath":"","key":"toc10"},{"name":"Top-up money to your balances","type":"book","tilePath":"","key":"toc11"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

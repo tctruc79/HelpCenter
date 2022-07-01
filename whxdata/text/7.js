@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Can I sign up with my Facebook or Google account or Apple ID"]],"1":[[" ","Home"," ",">>"," ","SINGAPORE"," ",">>"," ","Managing your account"," ",">>"," ","Logging in"," ",">>"," ","Can I sign up with my Facebook or Google account or Apple ID"]],"2":[[" ","Can I sign up with my Facebook or Google account or Apple ID"]],"id":"7"})

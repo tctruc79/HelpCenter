@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","My account was deactivated"]],"1":[[" ","Home"," ",">>"," ","SINGAPORE"," ",">>"," ","Managing your account"," ",">>"," ","Closing your account"," ",">>"," ","My account was deactivated"]],"2":[[" ","My account was deactivated"]],"id":"1"})

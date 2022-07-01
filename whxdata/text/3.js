@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","I could not receive OTP verification code"]],"1":[[" ","Home"," ",">>"," ","SINGAPORE"," ",">>"," ","Managing your account"," ",">>"," ","Logging in"," ",">>"," ","I could not receive OTP verification code"]],"2":[[" ","I could not receive OTP verification code"]],"id":"3"})
